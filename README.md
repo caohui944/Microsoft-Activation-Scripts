@@ -4,9 +4,7 @@
 
 组件都是基于Office16的内核上增加的，根据你激活不同的许可证，来获取不同的功能。
 
-我教给大家的是目前免费的操作里面最靠谱，功能最多，永久激活的操作方式。不用你关注什么公众号，不用去哪里获取应用。
-
-直接对着下面一步步操作就可以成功。
+目前免费的操作里面最靠谱，功能最多，永久激活的操作方式。直接对着下面一步步操作就可以成功。
 
 下载Microsoft 365 产品：  https://gravesoft.dev/office_c2r_links#chinese-simplified-zh-cn
 
@@ -32,6 +30,7 @@ https://link.zhihu.com/?target=https%3A//massgrave.dev/
 使用以下链接之一下载文件：
 
 https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
+
 https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip
 
 右键单击下载的 zip 文件并解压。
