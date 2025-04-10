@@ -1,3 +1,42 @@
+所有的Office 2021 2024 2026，都是Microsoft 365的子集。
+
+就是Office 版本号的产品都是Microsoft 365里面拆出来的。
+
+组件都是基于Office16的内核上增加的，根据你激活不同的许可证，来获取不同的功能。
+
+我教给大家的是目前免费的操作里面最靠谱，功能最多，永久激活的操作方式。不用你关注什么公众号，不用去哪里获取应用。
+
+直接对着下面一步步操作就可以成功。
+
+下载Microsoft 365 产品：  https://gravesoft.dev/office_c2r_links#chinese-simplified-zh-cn
+
+下载后安装即可。
+
+激活程序：Microsoft Activation Scripts (MAS) | MAS   (https://massgrave.dev/)
+
+使用方法：PowerShell 或终端（不是 CMD）
+
+复制并粘贴下面的代码，然后按 Enter：  irm https://get.activated.win | iex
+
+您将看到激活选项。按照屏幕上的说明进行操作。
+
+激活 Windows 直接选择HWID（数字权利）激活 Office直接选择 ohook等1分钟。激活完成~
+
+https://link.zhihu.com/?target=https%3A//massgrave.dev/
+
+-------------------------------------------------------------------------------------
+以上是使用 PowerShell（Windows 8 及更高版本）的激活方法。
+以下为传统方法：（Windows 7 及更高版本）
+使用以下链接之一下载文件：
+https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
+https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip
+右键单击下载的 zip 文件并解压。
+在解压缩的文件夹中，找到名为 All-In-One-Version的文件夹。
+运行名为MAS_AIO.cmd 的文件。
+您将看到激活选项。按照屏幕上的说明进行作。
+
+
+---------------------------------------------------------------------------------
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
