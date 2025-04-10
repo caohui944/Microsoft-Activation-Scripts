@@ -26,16 +26,23 @@ https://link.zhihu.com/?target=https%3A//massgrave.dev/
 
 -------------------------------------------------------------------------------------
 以上是使用 PowerShell（Windows 8 及更高版本）的激活方法。
+
 以下为传统方法：（Windows 7 及更高版本）
+
 使用以下链接之一下载文件：
+
 https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
 https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip
+
 右键单击下载的 zip 文件并解压。
+
 在解压缩的文件夹中，找到名为 All-In-One-Version的文件夹。
+
 运行名为MAS_AIO.cmd 的文件。
+
 您将看到激活选项。按照屏幕上的说明进行作。
 
-
+------2025.4.10
 ---------------------------------------------------------------------------------
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
